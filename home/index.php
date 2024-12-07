@@ -45,7 +45,7 @@ if(!isset($_SESSION['firstname'])){
 </div>
     <div class="container">
         <h1>Image to Text Converter</h1>
-        <h4>By Sufi</h4>
+        <h4>By Yuvi</h4>
         <input type="file" id="image-input" accept="image/*">
         <button id="extract-button">Extract Text</button>
         <div id="loading" class="hidden">Loading...</div>
